@@ -1,1 +1,2 @@
-este es el primer fichero del repositorio
+Este es el primer fichero del repositorio
+añado diferencias a este fichero
